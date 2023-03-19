@@ -32,8 +32,3 @@ MusicWiki is an unofficial Last.fm app that contains information about different
 - Top Artists, Top Tracks and Top Albums are available wrt each genre.
 
 
-### Some Important Points 
-
-- The UI of the application can definitely get more improved, but I rather decided to spend more time on the Code Structure and Architecture so that it is Scalable and Maintanable.
-- Didn't focused much on the UI, as at some places, the alignment of the views are not proper.
-- Just have tried to replicate the UI provided in the assignment.
